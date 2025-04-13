@@ -119,5 +119,5 @@ Closes the application.
 
  Copyright and Trademark:
  All trademarks and brand names related to the Zapotec Immortal software are the property of ZapotaZ, unless otherwise noted. All rights are reserved. 
- Icons made by Dia de Muertos, Processor glyph silhouettes, Angara, Freepick, bsd from from www.flaticon.com.
+ Icons made by Dia de Muertos, Processor glyph silhouettes, Angara, Freepick, bsd from www.flaticon.com.
             
