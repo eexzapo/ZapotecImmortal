@@ -2,6 +2,9 @@
 
 PUBG help program
 
+![image](https://github.com/user-attachments/assets/9a30ebd1-95d7-4130-b5d9-ef9878345ac4)
+
+
 # Indtroduction
 
 # Guid
