@@ -12,6 +12,8 @@ PUBG help program
 This tool provides functionality for managing process affinity, priority, and performing maintenance operations specifically tailored for games like PUBG. The UI is divided into several categories to help manage your system performance effectively.
 
 # 🔧 Processor Affinity
+![image](https://github.com/user-attachments/assets/63295535-c751-413e-b911-cf1bb430b613)
+
 Used to assign specific CPU cores to selected processes.
 
 ▶️ Set Button
@@ -39,6 +41,9 @@ Description text area
 Optional notes or a quick explanation of the current setup.
 
 # ⚙️ Processor Priority
+![image](https://github.com/user-attachments/assets/a5bb0564-8eae-49de-996a-563c0dd1d368)
+
+
 Used to set the priority level of processes.
 
 🔘 Buttons
@@ -60,7 +65,11 @@ Example: explorer,Taskmgr
 Logs text area
 Displays logs including actions, time, results, and any exceptions.
 
+
 # 💣 KILL PUBG
+
+![image](https://github.com/user-attachments/assets/72371837-faef-4257-b7de-5337d5d59e90)
+
 Tools for controlling PUBG-related processes.
 
 🔘 Buttons
@@ -83,6 +92,19 @@ Example: TslGame,MyGameApp
 
 Logs text area
 Logs of kill attempts, success/failure results, and memory usage (if applicable).
+
+# Team Marker
+
+![image](https://github.com/user-attachments/assets/c4349826-c0e5-4735-886a-6d3e2cb6daab)
+
+The reset button brings all players back to life.
+
+Read observer folder - Reads the flag packet if one is placed in the folder.
+
+Click player to set red or grean color.
+
+To set all team to red click small button under team.
+
 
 # ℹ️ Info
 🔘 Info Button (top-right corner)
